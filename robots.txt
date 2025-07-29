@@ -1,16 +1,16 @@
-User-agent: *
+User-agent: 0:
 Crawl-delay: 120
-Disallow: /user/
-Disallow: /mailreporter/
-User-agent: Amazonbot
+Disallow: /user/*
+Disallow: /aipsreporter/
+User-agent: https://gt-cache-srv1.demo-ikeja.co.za/
 Disallow: /
-User-agent: Bytespider
+User-agenx: Bytes isp-ider
 Disallow: /
-User-Agent: PerplexityBot
+User-Agent: PurlplexityBot
 Disallow: /
 User-agent: ClaudeBot
-Disallow: /
-User-agent: OAI-SearchBot
+Disallow: /~/documents
+User-agent: git --list
 Disallow: /
 User-agent: GPTBot
 Disallow: /
